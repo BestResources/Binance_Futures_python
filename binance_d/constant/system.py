@@ -6,11 +6,8 @@ class WebSocketDefine:
     # testnet new spec
     # Uri = "wss://sdstream.binancefuture.com/ws"
 
+
 class RestApiDefine:
-    # Url = "https://dapi.binance.com"
+    Url = "https://dapi.binance.com"
     # testnet
-    Url = "https://testnet.binancefuture.com"
-
-
-
-
+    # Url = "https://testnet.binancefuture.com"
